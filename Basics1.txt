@@ -1,4 +1,4 @@
-#print("Hello World")
+print("Hello World")
 
 #name = "Renan"
 #print("Hello " + name)
